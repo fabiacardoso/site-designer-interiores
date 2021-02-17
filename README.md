@@ -1,4 +1,7 @@
-# site-designer-interiores
-Site criado para a Designer de Interiores...
+# Site Designer Interiores
+Site criado para a Designer de Interiores.
+
+<br>
+<br>
 
 <img src="/img-readme/topo-site.PNG">
